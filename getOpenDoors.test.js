@@ -1,4 +1,5 @@
-const getOpenDoors = require('./getOpenDoors');
+// const getOpenDoors = require('./getOpenDoors');
+const getOpenDoors = require('./getOpenDoors2');
 
 // let result = getOpenDoors(100);
 // console.log(result)
